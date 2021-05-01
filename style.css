@@ -1,0 +1,196 @@
+
+
+#calculator{
+    background-color: #8c8c8c;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    width: 27%;
+    height: 70%;
+    border-radius: 10px;
+}
+
+#calculation{
+    border: 1px solid #000000;
+    width: 62%;
+    height: 13.7%;
+    margin-top: 4%;
+    margin-left: 7.4%;
+    border-radius: 6px;
+    text-align: right;
+    font-size: xx-large;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.button{
+    background-color: #2e2e2e;
+    color: #ffffff;
+    border: none;
+    height: 17%;
+    width: 19%;
+    transition: background-color 0.5s;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: #494949;
+}
+
+.button:focus{
+    outline: none;
+    border: none;
+}
+
+#a{
+    margin-left: 7.4%;
+    margin-top: 3%;
+}
+
+#b{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#c{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#plus{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#minus{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#multiply{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#divide{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#d{
+    margin-left: 7.4%;
+    margin-top: 3%;
+}
+
+#e{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#f{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#g{
+    margin-left: 7.4%;
+    margin-top: 3%;
+}
+
+#h{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#i{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+#j{
+    margin-left: 7.4%;
+    margin-top: 3%;
+}
+
+#k{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+
+.button1{
+    background-color: #ff5100;
+    color: #ffffff;
+    border: none;
+    height: 17%;
+    width: 19%;
+    transition: background-color 0.5s;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 5px;
+}
+
+.button1:hover{
+    background-color: #ff6822;
+}
+
+.button1:focus{
+    outline: none;
+    border: none;
+}
+
+#l{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+.button2{
+    background-color: #0026ff;
+    color: #ffffff;
+    border: none;
+    height: 17%;
+    width: 18%;
+    transition: background-color 0.5s;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 5px;
+}
+
+.button2:hover{
+    background-color: #4863ff;
+}
+
+.button2:focus{
+    outline: none;
+    border: none;
+}
+
+
+
+.button3{
+    background-color: #ff0000;
+    color: #ffffff;
+    border: none;
+    height: 15%;
+    width: 18%;
+    transition: background-color 0.5s;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 5px;
+}
+
+.button3:hover{
+    background-color: #ff4242;
+}
+
+.button3:focus{
+    outline: none;
+    border: none;
+}
+
+#clear{
+    margin-top: 3%;
+    margin-left: 1.5%;
+}
